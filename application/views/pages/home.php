@@ -1,18 +1,4 @@
-
-
-<!--导航end-->
-<div class="banner">
-  <div class="concenter">
-    <!--    <div class="four_point">
-      <ul>
-        <li><img src="images/banner_span1.png" /></li>
-        <li><img src="images/banner_span2.png" /></li>
-        <li><img src="images/banner_span3.png" /></li>
-        <li><img src="images/banner_span4.png" /></li>
-      </ul>
-    </div>-->
-    <a href="#" class="zixun"><img src="images/banner_zixun.png" width="118" height="42" /></a> </div>
-</div>
+<div class="banner"></div>
 <div class="section1">
   <div class="concenter">
     <ul>
@@ -53,113 +39,20 @@
     </ul>
   </div>
 </div>
+
 <div class="section2">
   <div class="concenter"> <img src="images/section2_tt.png" />
     <h3 class="h3_line">我们不止为您想的更多，为您做的更多</h3>
     <p>由于取消了年检，工商改为要求企业每年网络公示，否则将会被列入黑名单。包括公司运营维护、财务人事外包、各种变更注销、行业准入咨询等等。我们提供运营公司所需的相关支撑业务。关注您的核心业务，把行政事务性工作交给企盈。</p>
-    <a href="#" class="zixun_btn">点击咨询</a> </div>
+  </div>
 </div>
+
 <div class="section3">
   <div class="concenter">
     <h3 class="h3_tt"><img src="images/section3_tt.png" /></h3>
-    <div class="partenr_effect">
-      <div class="hd">
-        <ul>
-        </ul>
-      </div>
-      <div class="bd">
-        <ul>
-          <li>
-            <div class="partener_box">
-              <ul>
-                <li><a href="#"><img src="images/nz_yqlj_img1c.png" /></a></li>
-                <li><a href="#"><img src="images/nz_yqlj_img2c.png" /></a></li>
-                <li><a href="#"><img src="images/nz_yqlj_img3c.png" /></a></li>
-                <li><a href="#"><img src="images/nz_yqlj_img4c.png" /></a></li>
-                <li><a href="#"><img src="images/nz_yqlj_img5c.png" /></a></li>
-                <li><a href="#"><img src="images/cw_youq_img2-c.png" /></a></li>
-                <li><a href="#"><img src="images/cw_youq_img12-c.png" /></a></li>
-                <li><a href="#"><img src="images/nz_yqlj_img8c.png" /></a></li>
-              </ul>
-            </div>
-            <div class="they_saybox">
-              <h3>他们这样说:</h3>
-              <ul>
-                <li>
-                  <dl>
-                    <dt><a href="#"><img src="images/nz_tsay_img1.png" /></a></dt>
-                    <dd>
-                      <p>感谢你们专业出色的服务。</p>
-                      <span class="right_span"><strong>中粮集团：</strong>李小姐</span> </dd>
-                  </dl>
-                </li>
-                <li>
-                  <dl>
-                    <dt><a href="#"><img src="images/nz_pl_img2.png" /></a></dt>
-                    <dd>
-                      <p>觉得服务很及时，也很周到，效率也不错！</p>
-                      <span class="right_span"><strong>亚太医联: </strong>李先生</span> </dd>
-                  </dl>
-                </li>
-                <li>
-                  <dl>
-                    <dt><a href="#"><img src="images/nz_yll_3.png" /></a></dt>
-                    <dd>
-                      <p>你们简直就是我们的优秀员工。</p>
-                      <span class="right_span"><strong>Fresenius：</strong>David</span> </dd>
-                  </dl>
-                </li>
-              </ul>
-            </div>
-          </li>
-          <li>
-            <div class="partener_box">
-              <ul>
-                <li><a href="#"><img src="images/nz_yqlj_img12c.png" /></a></li>
-                <li><a href="#"><img src="images/nz_tsay_img14c.png" /></a></li>
-                <li><a href="#"><img src="images/cw_youq_img9-c.png" /></a></li>
-                <li><a href="#"><img src="images/cw_youq_img5-c.png" /></a></li>
-                <li><a href="#"><img src="images/cw_youq_img18-c.png" /></a></li>
-                <li><a href="#"><img src="images/cw_youq_img14-c.png" /></a></li>
-                <li><a href="#"><img src="images/yl_smjt_c.png" /></a></li>
-                <li><a href="#"><img src="images/cw_youq_img4-c.png" /></a></li>
-              </ul>
-            </div>
-            <div class="they_saybox">
-              <h3>他们这样说:</h3>
-              <ul>
-                <li>
-                  <dl>
-                    <dt><a href="#"><img src="images/nz_pl_img4.png" /></a></dt>
-                    <dd>
-                      <p>“承诺的能做到，服务很好”。</p>
-                      <span class="right_span"><strong>汇业律所：</strong>裴律师</span> </dd>
-                  </dl>
-                </li>
-                <li>
-                  <dl>
-                    <dt><a href="#"><img src="images/nz_pl_img5.png" /></a></dt>
-                    <dd>
-                      <p>“合作十年了，一直很满意”</p>
-                      <span class="right_span"><strong>锦天城律所: </strong>岳律师</span> </dd>
-                  </dl>
-                </li>
-                <li>
-                  <dl>
-                    <dt><a href="#"><img src="images/nz_pl_img6.png" /></a></dt>
-                    <dd>
-                      <p>“你们给我们客户提供的服务实在是太专业了”</p>
-                      <span class="right_span"><strong>平安银行副行长：</strong>潘吉</span> </dd>
-                  </dl>
-                </li>
-              </ul>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
   </div>
 </div>
+
 <div class="section4">
   <div class="concenter">
     <h3 class="h3_tt"><img src="images/section4_tt.png" style="display:block; margin:0 auto 13px;" /> <span class="span_en">OTHER SERVICES</span></h3>
@@ -176,7 +69,7 @@
               <p class="ch_p">财务代理</p>
               <p class="en_p">Deputy Finance</p>
             </div>
-            <a href="#" class="zixun_yj">点击咨询</a> </div>
+           </div>
         </li>
         <li>
           <div class="hover_div">
@@ -189,7 +82,7 @@
               <p class="ch_p">人事代理</p>
               <p class="en_p">Personnel Agency</p>
             </div>
-            <a href="#" class="zixun_yj">点击咨询</a> </div>
+          </div>
         </li>
         <li>
           <div class="hover_div">
@@ -202,7 +95,7 @@
               <p class="ch_p">商标注册</p>
               <p class="en_p">Trademark registration</p>
             </div>
-            <a href="#" class="zixun_yj">点击咨询</a> </div>
+          </div>
         </li>
       </ul>
     </div>
@@ -211,52 +104,6 @@
 
 <div class="tanchu_opac">
 </div>
-<div class="tanchu_zixun">
-    <div class="close"><img src="images/close.png" /></div>
-    <div class="zixun_top">
-        <h3>电话咨询：4000-877-199 / 51397660</h3>
-        <p>(工作日：9:00-20:00　非工作日：10:00-20:00)</p>
-    </div>
-    <div class="zixun_center">
-        <p>也可留下您的电话，我们将主动与您联系：<span style="color:#999;">(仅限工作日：9:00-17:30)</span></p>
-        <div class="biaodan_box">
-            <input type="text" class="number" name="您的手机" value="您的手机" width="118" />
-            <input type="text" class="name" name="姓名" value="姓名"  width="67" />
-            <input type="text" class="time" name="方便接电话时间" value="方便接电话时间" width="117" />
-            <input type="button" class="tj_btn" value="提交" />
-        </div>
-    </div>
-    <div class="zixun_bottom">
-        <div class="left"><img  src="images/zxtj.png" /></div>
-        <div class="right">
-            <div style=" margin:30px auto 0; width:411px;"><a  target="_blank" class="zixun_btn qq_zixun" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=4001687199&aty=0&a=0&curl=&ty=1">点击咨询</a>&nbsp;&nbsp;&nbsp;&nbsp;<span>(工作日：9:00-17:30)</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" class="zixun_btn liuyan_btn">在线留言</a>&nbsp;&nbsp;&nbsp;&nbsp;<span>(全天)</span></div>
-        </div>
-    </div>
-</div>
-
-<div class="site_bottom">
-    <div class="concenter">
-        <p><a href="default.aspx">内资注册</a><span class="split">|</span><a href="waizi.aspx">外资注册</a><span class="split">|</span><a href="caiwu.aspx">财务代理</a><span class="split">|</span><a href="http://www.91zcgs.com/list-48-1.html" target="_blank">商标注册</a><span class="split">|</span><a href="#">法律服务</a><span class="split">|</span><a href="#">网站地图</a><span class="split">|</span><a href="#">法律声明</a></p>
-        <p>版权所有:上海纽斯蒂实业有限公司 Shanghai Ying Enterprise Investment Management Co., Ltd. 沪ICP备12029215号-3</p>
-        <p>上海市徐汇区肇嘉浜路1065号飞雕国际大厦2208室</p>
-
-
-
-<!--统计代码-->
-
-<script type="text/javascript" src="http://tajs.qq.com/stats?sId=45238524" charset="UTF-8"></script>
-
-
-
-
-
-    </div>
-</div>
-
-
-
-
-
 
 
 <!--[if IE 6]>
@@ -271,6 +118,7 @@
      或以下浏览器：<a style="color:#fff;" href="http://www.google.cn/intl/zh-CN/chrome/" target="_blank">Chrome</a> / <a style="color:#fff;" href="http://www.firefox.com.cn/download/" target="_blank">Firefox</a> / <a style="color:#fff;" href="http://support.apple.com/kb/DL1531?viewlocale=zh_CN" target="_blank">Safari</a> / <a style="color:#fff;" href="http://www.opera.com/" target="_blank">Opera</a>
     </div>
 <![endif]-->
+
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/html5.js"></script>
 <script type="text/javascript" src="js/main.js"></script>
@@ -281,90 +129,49 @@
 
 <div class="xuanfu">
   <ul>
-  	<li class="dh_btn" title="电话"> <img src="images/tel_btn.png" style="" /> <em class="tm">&nbsp;</em></li>
-    <li class="qqBtn" title="咨询在线专家"><a class="talk99_region" target="_blank" > <img alt="" src="images/qq_btn.png" /></a></li>
-    <li class="ly-btn" title="在线留言"> <img src="images/icon1.png" style="margin-top: 0px;" /></li>
-    <li class="wx_btn" title="微信"> <img src="images/icon2.png" style="margin-top: 0px;" /></li>
-<!--    <li class="sina_btn"><a href="http://weibo.com/71999999net" target="_blank"><img src="images/icon3.png" style="margin-top: 0px;" /></a></li>-->
+  	<li class="dh_btn" title="电话">
+      <img src="images/tel_btn.png" style="" /> <em class="tm">&nbsp;</em>
+    </li>
+    <li class="qqBtn" title="咨询在线专家">
+      <a class="talk99_region" target="_blank" > <img alt="" src="images/qq_btn.png" /></a>
+    </li>
   </ul>
 
 <div class="liuyan"> <span class="gb"><img src="images/gb.png" /></span>
   <div class="liuyan-nr">
     <h3>在线专家咨询</h3>
     <div class="dlBox">
-      <p style="line-height:15px; margin:0 0 10px; font-weight:bold;">工作日：9:00-20:00<br/>非工作日：10:00-20:00</p>
+      <p style="line-height:15px; margin:0 0 10px; font-weight:bold;">工作日：8:30-17:30</p>
+
       <dl>
-        <dt> <a class="talk99_region" target="_blank" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=4001687199&aty=0&a=0&curl=&ty=1"> <img alt="" src="images/t1.jpg" /></a></dt>
-        <dd> <a class="talk99_region" target="_blank" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=4001687199&aty=0&a=0&curl=&ty=1">咨询内资专家</a></dd>
+        <dt> <a class="talk99_region" target="_blank" href="tencent://Message/?Uin=1002859078" > <img alt="" src="images/t2.jpg" /></a></dt>
+        <dd> <a class="talk99_region" target="_blank" href="tencent://Message/?Uin=1002859078">高经理</a></dd>
       </dl>
       <dl>
-        <dt> <a class="talk99_region" target="_blank" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=4001687199&aty=0&a=0&curl=&ty=1" > <img alt="" src="images/t2.jpg" /></a></dt>
-        <dd> <a class="talk99_region" target="_blank" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=4001687199&aty=0&a=0&curl=&ty=1">咨询外资专家</a></dd>
+        <dt> <a class="talk99_region" target="_blank" href="tencent://Message/?Uin=106245924" > <img alt="" src="images/t2.jpg" /></a></dt>
+        <dd> <a class="talk99_region" target="_blank" href="tencent://Message/?Uin=106245924">程经理</a></dd>
       </dl>
       <dl>
-        <dt> <a class="talk99_region" target="_blank" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=4001687199&aty=0&a=0&curl=&ty=1"> <img alt="" src="images/t2.jpg" /></a></dt>
-        <dd> <a class="talk99_region" target="_blank" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=4001687199&aty=0&a=0&curl=&ty=1">咨询财务代理</a></dd>
-      </dl>
-      <dl>
-        <dt> <a class="talk99_region" target="_blank" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=4001687199&aty=0&a=0&curl=&ty=1"> <img alt="" src="images/t1.jpg" /></a></dt>
-        <dd> <a class="talk99_region" target="_blank" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=4001687199&aty=0&a=0&curl=&ty=1">咨询人事代理</a></dd>
+        <dt> <a class="talk99_region" target="_blank" href="tencent://Message/?Uin=575250937" > <img alt="" src="images/t2.jpg" /></a></dt>
+        <dd> <a class="talk99_region" target="_blank" href="tencent://Message/?Uin=575250937">郭经理</a></dd>
       </dl>
     </div>
   </div>
 </div>
 
-  <div class="weixin">
-  	<span class="gb"><img src="images/gb.png" /></span>
-    <div class="wx_nr">
-      <p class="wx_bt"> 微信二维码</p>
-      <div class="wx_cont"> <img src="images/wechat_img.jpg" /></div>
-    </div>
-  </div>
-  <div class="liuyan2">
-  	<span class="gb"><img alt="" src="images/gb.png" /></span>
-    <div class="liuyan-nr">
-      <div class="ly-bt"> <img src="/zuanti/images/1224icon1.png" style="vertical-align:middle;" />&nbsp;在线留言</div>
-      <div class="ly-cont">
-        <form id="frm_message" name="frm_message" novalidate="novalidate">
-          <table cellpadding="0" cellspacing="0">
-            <tbody>
-              <tr>
-                <td class="dq"> 姓名：</td>
-                <td><input class="ly-txt" name="txt_name" type="text" value="" /></td>
-              </tr>
-              <tr>
-                <td class="dq"> 电话：</td>
-                <td><input class="ly-txt" name="txt_tel" type="text" value="" /></td>
-              </tr>
-              <tr>
-                <td class="dq"> 时间：</td>
-                <td><input class="ly-txt" name="txt_add" type="text" value="" /></td>
-              </tr>
-              <tr>
-                <td class="dq"> 内容：</td>
-                <td><textarea name="txt_intro"></textarea></td>
-              </tr>
-              <tr>
-                <td class="dq">&nbsp;</td>
-                <td><input class="tj" type="button" value="提交" /></td>
-              </tr>
-            </tbody>
-          </table>
-        </form>
-      </div>
-    </div>
-  </div>
+
+
   <div class="tel_neirong">
   	<span class="gb"><img src="images/gb.png" /></span>
     <div class="liuyan-nr">
       <div class="tel-bt"><img src="images/tel_btn.png" />联系电话</div>
       <div class="dlBox">
-	  	  <p class="tel_p" style="margin:51px auto 5px; background:url(images/tel_yy1.jpg) 2px bottom no-repeat;">4000-877-199</p>
+	  	  <p class="tel_p" style="margin:51px auto 5px;">4000-562-618</p>
           <div class="tip" style="margin:0 0 10px 0;">
-          	  <div>（限工作日：9:00-20:00　非工作日：10:00-20:00）</div>
+          	  <div>（限工作日：8:30-17:30）</div>
           </div>
-          <p class="tel_p" style=" font-size:46px;background:url(images/tel_yy2.jpg) 3px 46px no-repeat; margin:0 auto 4px;">021-5139-7660</p>
-          <div class="tip"><div>（限工作日：9:00-20:00）</div></div>
+          <p class="tel_p" style=" font-size:46px;margin:0 auto 4px;">1881-502-679</p>
+          <div class="tip"><div>（限工作日：8:30-17:30）</div></div>
       </div>
     </div>
   </div>
@@ -385,5 +192,4 @@
 			$(this).find('.hove_box').stop(true,true).fadeOut(100);
 		});
 	});
-
 </script>
