@@ -11,7 +11,7 @@
 </head>
 <body>
   <div class="topfoot">
-  <div class="logo"> <a href="http://www.91zcgs.com/list-22-1.html"><img src="http://www.91zcgs.com/statics/css/../styletest/log.jpg"></a> </div>
+  <div class="logo"> <a href="/"><img src="/images/log.jpg"></a> </div>
   <div class="hsm_Left"> 注册内资公司 </div>
   <div class="hsm_Right">
     <ul class="nav_sub">
