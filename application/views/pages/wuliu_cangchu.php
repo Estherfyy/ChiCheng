@@ -21,7 +21,8 @@
        而对于一些资金周转暂时困难又不想耽误货期的客户来说，保税区的仓库更是一个非常好的选择，根据客户的订货量来决定清关的货物数量，既保证货期，又能保证公司资金的正常流转。
       </p>
 
-      <img src="images/wuliu_cangchu.jpg" />
+      <img src="/images/wuliu_cangchu.jpg" />
+
 		</div>
 		<div class="clear">&nbsp;</div>
 	</div>
