@@ -2,14 +2,14 @@
   <div class="caiwu4"> </div>
 	<div class="home_content mid">
 		<div class="h_con_Left">
-			<a href="/jck">
+			<a href="/index.php/page/index/jck">
 				<div class="bigtitle">进出口代理</div>
 			</a>
 			<div class="leftmenusub">
 			  <ul>
-          <li><a href="/jck_gainian">相关概念</a></li>
-					<li><a href="/jck_jinkou">进口代理</a></li>
-					<li><a href="/jck_chukou">出口代理</a></li>
+          <li><a href="/index.php/page/index/jck_gainian">相关概念</a></li>
+					<li><a href="/index.php/page/index/jck_jinkou">进口代理</a></li>
+					<li><a href="/index.php/page/index/jck_chukou">出口代理</a></li>
 			  </ul>
 			</div>
 		</div>

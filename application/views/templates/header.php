@@ -16,12 +16,11 @@
   <div class="hsm_Right">
     <ul class="nav_sub">
         <li><a href="/">首页</a></li>
-        <li><a href="/reg">注册公司</a></li>
-				<li><a href="/dljz">代理记账</a></li>
-				<li><a href="/jck">进出口业务</a></li>
-				<li><a href="/wuliu">物流管理中心</a></li>
-				<li><a href="/contact">联系我们</a></li>
-
+        <li><a href="/index.php/page/index/reg">注册公司</a></li>
+				<li><a href="/index.php/page/index/dljz">代理记账</a></li>
+				<li><a href="/index.php/page/index/jck">进出口业务</a></li>
+				<li><a href="/index.php/page/index/wuliu">物流管理中心</a></li>
+				<li><a href="/index.php/page/index/contact">联系我们</a></li>
     </ul>
   </div>
 </div>

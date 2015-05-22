@@ -2,7 +2,7 @@
   <div class="caiwu4"> </div>
 	<div class="home_content mid">
 		<div class="h_con_Left">
-			<a href="reg">
+			<a href="/index.php/page/index/reg">
 				<div class="bigtitle">注册公司</div>
 			</a>
 

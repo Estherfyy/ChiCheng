@@ -2,14 +2,14 @@
   <div class="caiwu4"> </div>
 	<div class="home_content mid">
 		<div class="h_con_Left">
-			<a href="/wuliu">
+			<a href="/index.php/page/index/wuliu">
 				<div class="bigtitle">物流管理中心</div>
 			</a>
 			<div class="leftmenusub">
 			  <ul>
-			    <li><a href="/wuliu_jiandan">简单加工</a></li>
-					<li><a href="/wuliu_zhenghe">物流整合</a></li>
-					<li><a href="/wuliu_cangchu">仓储中心</a></li>
+			    <li><a href="/index.php/page/index/wuliu_jiandan">简单加工</a></li>
+					<li><a href="/index.php/page/index/wuliu_zhenghe">物流整合</a></li>
+					<li><a href="/index.php/page/index/wuliu_cangchu">仓储中心</a></li>
 			  </ul>
 			</div>
 		</div>

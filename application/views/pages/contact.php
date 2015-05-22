@@ -2,7 +2,7 @@
   <div class="caiwu4"> </div>
 	<div class="home_content mid">
     <div class="h_con_Left">
-			<a href="/contact">
+			<a href="/index.php/page/index/contact">
 				<div class="bigtitle">联系我们</div>
 			</a>
 		</div>
