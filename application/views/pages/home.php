@@ -170,7 +170,7 @@
           <div class="tip" style="margin:0 0 10px 0;">
           	  <div>（限工作日：8:30-17:30）</div>
           </div>
-          <p class="tel_p" style=" font-size:46px;margin:0 auto 4px;">1881-502-679</p>
+          <p class="tel_p" style=" font-size:46px;margin:0 auto 4px;">1881-7502-679</p>
           <div class="tip"><div>（限工作日：8:30-17:30）</div></div>
       </div>
     </div>
