@@ -5,6 +5,7 @@ class Page extends CI_Controller {
 
   public function index($page = 'home')
   {
+    
     if ( ! file_exists(APPPATH.'/views/pages/'.$page.'.php'))
     {
       // 页面不存在
