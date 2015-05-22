@@ -12,7 +12,7 @@
 <body>
   <div class="topfoot">
   <div class="logo"> <a href="/"><img src="/images/log.jpg"></a> </div>
-  <div class="hsm_Left"> 注册内资公司 </div>
+
   <div class="hsm_Right">
     <ul class="nav_sub">
         <li><a href="/">首页</a></li>
