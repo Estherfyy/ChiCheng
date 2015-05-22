@@ -16,12 +16,12 @@
   <div class="hsm_Right">
     <ul class="nav_sub">
         <li><a href="/">首页</a></li>
-        <li><a href="/dljz">代理记账</a></li>
-        <li><a data1="16" data2="126" href="http://www.91zcgs.com/list-126-1.html">注册价格表</a></li>
-        <li><a data1="16" data2="19" href="http://www.91zcgs.com/nz.html">税收政策</a></li>
-        <li><a data1="16" data2="124" href="http://www.91zcgs.com/list-124-1.html">自贸区</a></li>
-        <li><a data1="16" data2="20" href="http://www.91zcgs.com/list-20-1.html">专业咨询</a></li>
-        <li><a data1="16" data2="21" href="http://www.91zcgs.com/list-21-1.html">联系我们</a></li>
+        <li><a href="/reg">注册公司</a></li>
+				<li><a href="/dljz">代理记账</a></li>
+				<li><a href="/dljz">进出口业务</a></li>
+				<li><a href="/dljz">物流管理中心</a></li>
+				<li><a href="/dljz">联系我们</a></li>
+
     </ul>
   </div>
 </div>
