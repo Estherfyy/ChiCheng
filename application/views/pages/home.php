@@ -13,8 +13,8 @@
       </li>
       <li>
         <div class="hove_box"> <span class="red_bizhi">更省钱</span>
-          <p style="font-size:18px; color:#fff; line-height:100%; font-weight:bold; margin-bottom:14px">税收返还</p>
-          <div>注册地址不同注册业态不同，可以获得不同的税收返还。有人觉得这是个迷，有人认为这是个骗局，但也有人深谙其中之道。我们做了十年园区，了解绝大部分上海的园区政策，实战经验不可多得。我们是你们一直在苦苦寻找的专家。 </div>
+          <p style="font-size:18px; color:#fff; line-height:100%; font-weight:bold; margin-bottom:14px">代理记账</p>
+          <div>现在您不必烦恼了！拨个电话给我们，专业会计师为您服务！</div>
         </div>
         <span class="red_bizhi">更省钱</span>
         <div class="li_conbox"> <img src="images/section1_img2.png" width="118" height="42" style="display:block; margin:0 auto 4px;" /> <span>为您考虑，为您更省</span> </div>
